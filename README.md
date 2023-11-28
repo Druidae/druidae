@@ -56,7 +56,7 @@
 <blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»
 - ©Winston Churchill</blockquote>
 
-- 📫 You can reach me **demyanov.job@gmail.com**
+📫 You can reach me **demyanov.job@gmail.com**
 <!--
 **Druidae/druidae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
