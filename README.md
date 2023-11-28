@@ -60,7 +60,9 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druidae&theme=radical&show_icons=true)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Druidae&theme=radical" alt="Druidae" />
+
+<br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Druidae&theme=radical" alt="Druidae" />
 
 
 <!--
