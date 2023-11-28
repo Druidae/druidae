@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Denis. 
 #### 💻 I'am a Back-end Developer from Russia, now based in Belgrade,Serbia UTC+1.
+<a href="default.asp"><img src="https://www.codewars.com/users/Druidae/badges/large" alt="codewars-badge" style="text-align: center"></a>
+<hr>
 
 👷 **Skills and Competencies** (click to open):
 </br>
@@ -53,6 +55,8 @@
 ⚡ My life style: 
 <blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»
 - ©Winston Churchill</blockquote>
+
+- 📫 You can reach me **demyanov.job@gmail.com**
 <!--
 **Druidae/druidae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
