@@ -1,8 +1,58 @@
-### Hi there 👋
-Hi, my name is Denis. I'am a Back-end Developer from Russia, now based in Belgrade,Serbia UTC+1.
+### Hi there 👋, my name is Denis. 
+#### 💻 I'am a Back-end Developer from Russia, now based in Belgrade,Serbia UTC+1.
 
-My main stck: Python, Django, PosthreSQL, HTML, CSS3, JavaScript. I will be glad to put my hand to any existing or launch project.
+👷 **Skills and Competencies** (click to open):
+</br>
+<details>
+  <summary>Backend:</summary>
+  <br>
+  <ul>
+    <li>Python</li>
+    <li>Django</li>
+    <li>Django REST framework</li>
+    <li>Git</li>
+    <li>Linux console</li>
+    <li>Deployment experience</li>
+    <li>Aiogram</li>
+  </ul>
+</details>
 
+<details>
+  <summary>Databases and Related:</summary>
+  </br>
+  <ul>
+    <li>SQL syntax</li>
+    <li>PostgreSQL</li>
+    <li>Django ORM</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Frontend:</summary>
+  <br>
+  <ul>
+    <li>JavaScript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</details>
+  
+<details>
+  <summary>Additional skills:</summary>
+  <br>
+  <ul>
+    <li>English language A2-B1</li>
+    <li>Understanding of OOP (Object-Oriented Programming)</li>
+    <li>Optimization of Django ORM queries to the database</li>
+    <li>Code documentation</li>
+  </ul>
+</details>
+
+👯 My soft skills: friendliness in communication, non-conflict, the ability to listen, the ability to communicate with different types of people, hard work, perseverance, involvement.
+
+⚡ My life style: 
+<blockquote>«Success consists of going from failure to failure without loss of enthusiasm.»
+- ©Winston Churchill</blockquote>
 <!--
 **Druidae/druidae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
