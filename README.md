@@ -21,9 +21,9 @@
   <summary>Databases and Related:</summary>
   </br>
   <ul>
+    <li>Django ORM</li>
     <li>SQL syntax</li>
     <li>PostgreSQL</li>
-    <li>Django ORM</li>
   </ul>
 </details>
 
@@ -31,9 +31,9 @@
   <summary>Frontend:</summary>
   <br>
   <ul>
-    <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>JavaScript</li>
   </ul>
 </details>
   
