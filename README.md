@@ -13,7 +13,7 @@
     <li>Git</li>
     <li>Linux console</li>
     <li>Deployment experience</li>
-    <li>Aiogram</li>
+    <li>pyTelegramBotAPI</li>
   </ul>
 </details>
 
