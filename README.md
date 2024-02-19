@@ -58,12 +58,6 @@
 <hr>
 <a href="default.asp" style=""><img src="https://www.codewars.com/users/Druidae/badges/large" alt="codewars-badge" style="text-align: center"></a>
 <hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druidae&theme=radical&show_icons=true)
-<br>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Druidae&theme=radical" alt="Druidae" />
-
-
 <!--
 **Druidae/druidae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
