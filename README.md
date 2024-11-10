@@ -41,9 +41,7 @@
   <summary>Additional skills:</summary>
   <br>
   <ul>
-    <li>English language A2-B1</li>
-    <li>Understanding of OOP (Object-Oriented Programming)</li>
-    <li>Optimization of Django ORM queries to the database</li>
+    <li>English language B2</li>
     <li>Code documentation</li>
   </ul>
 </details>
